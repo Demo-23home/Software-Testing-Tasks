@@ -1,0 +1,7 @@
+C:\Users\zeyad\source\repos\UnitTestTask\UnitTestTask\bin\Debug\UnitTestTask.exe.config
+C:\Users\zeyad\source\repos\UnitTestTask\UnitTestTask\bin\Debug\UnitTestTask.exe
+C:\Users\zeyad\source\repos\UnitTestTask\UnitTestTask\bin\Debug\UnitTestTask.pdb
+C:\Users\zeyad\source\repos\UnitTestTask\UnitTestTask\obj\Debug\UnitTestTask.csproj.AssemblyReference.cache
+C:\Users\zeyad\source\repos\UnitTestTask\UnitTestTask\obj\Debug\UnitTestTask.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\source\repos\UnitTestTask\UnitTestTask\obj\Debug\UnitTestTask.exe
+C:\Users\zeyad\source\repos\UnitTestTask\UnitTestTask\obj\Debug\UnitTestTask.pdb
